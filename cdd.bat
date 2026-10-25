@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set "CDD_EXE=C:\cdd\cddx.exe"
+set "CDD_EXE=C:\cdd\ccd.exe"
 set "CDD_LASTDIR=%TEMP%\cdd-lastdir.txt"
 
 if exist "%CDD_LASTDIR%" del "%CDD_LASTDIR%" >nul 2>nul
