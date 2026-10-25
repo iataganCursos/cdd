@@ -21,4 +21,4 @@ if exist "%CDD_LASTDIR%" (
 
 endlocal & if exist "%CDD_DIR%\" cd /d "%CDD_DIR%"
 
-delete
+deleted+
